@@ -23,6 +23,7 @@
 
 
 
-![git image](https://user-images.githubusercontent.com/68683268/116807420-cc677e00-ab50-11eb-840e-2701bd489566.png)
+
+![git image](https://user-images.githubusercontent.com/68683268/116807484-fde04980-ab50-11eb-9d84-67817b4291ac.png)
 
 
