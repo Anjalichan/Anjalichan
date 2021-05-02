@@ -21,9 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalichan&" alt="anjalichan" /></p>
 
-
-
-
-![git image](https://user-images.githubusercontent.com/68683268/116807484-fde04980-ab50-11eb-9d84-67817b4291ac.png)
+![git image]<p><img align="center"(https://user-images.githubusercontent.com/68683268/116807484-fde04980-ab50-11eb-9d84-67817b4291ac.png)/></p>
 
 
