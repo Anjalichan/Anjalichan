@@ -23,6 +23,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalichan&show_icons=true&locale=en" alt="anjalichan" /></p>
+![git image](https://user-images.githubusercontent.com/68683268/116807420-cc677e00-ab50-11eb-840e-2701bd489566.png)
 
 
