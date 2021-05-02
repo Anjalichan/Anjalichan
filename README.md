@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Geethanjali.k</h1>
-<h3 align="center">A cse sophomore who loves exploring new field and expose</h3>
+<h3 align="center">A cse junior student who loves exploring new field and expose!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalichan&label=Profile%20views&color=0e75b6&style=flat" alt="anjalichan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichan" alt="anjalichan" /></a> </p>
 
 - 📫 How to reach me **kgeethanjali2000@gmail.com**
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642/screenshots/5507196/computer.gif
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/geethanjali.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="geethanjali.k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/geethanjali-k-284a9820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geethanjali-k-284a9820a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalichan&show_icons=true&locale=en&layout=compact" alt="anjalichan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalichan&show_icons=true&locale=en" alt="anjalichan" /></p>
+
+
