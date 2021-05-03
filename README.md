@@ -1,4 +1,4 @@
-![git image](https://user-images.githubusercontent.com/68683268/116807661-fe2d1480-ab51-11eb-8eaf-e139059a2257.png)
+
 <h1 align="center">Hi 👋, I'm Geethanjali.k</h1>
 <h3 align="center">A cse junior student who loves exploring new field and expose!!</h3>
 
