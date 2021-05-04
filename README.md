@@ -8,7 +8,7 @@
 <h3 align "left">Connect with me:</h3>
 
 <p align= "left">
-<a href="https://www.linkedin.com/in/geethanjali-kd/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/geethanjali-kd/" target="blank"><img align= src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
