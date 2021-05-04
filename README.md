@@ -5,12 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalichan&label=Profile%20views&color=0e75b6&style=flat" alt="anjalichan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichan" alt="anjalichan" /></a> </p>
+<h3 align "left">Connect with me:</h3>
 
-- 📫 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> How to reach me **kgeethanjali2000@gmail.com**
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/geethanjali-k-284a9820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geethanjali-k-284a9820a/" height="30" width="40" /></a>
+<p align= "left">
+<a href="https://www.linkedin.com/in/geethanjali-kd/" target="blank"><img align="center" src=<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
