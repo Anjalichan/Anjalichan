@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalichan" alt="anjalichan" /></a> </p>
 
 - 📫 How to reach me **kgeethanjali2000@gmail.com**
+- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
