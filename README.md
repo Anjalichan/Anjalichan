@@ -26,8 +26,10 @@
 <img align="left" alt="Anjalichan's Github Stats" src="https://github-readme-stats.anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&hide_border=true" />
   
   </details>
+  <!--START_SECTION:activity--> 
+  .github/workflows/update-readme.yml
 
-name: Update README
+name: GitHub - Activity - Readme 
 
 on:
   schedule:
