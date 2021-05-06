@@ -20,5 +20,12 @@
   <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Anjalichan's GitHub Stats" src="https://github-readme-anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&hide_border=true" />
  </details>
+ <details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anjalichan's GitHub Top Languages" src="https://github-readme-anjalichan.vercel.app/api/top-langs/?username=Anjalichan" />
+
+</details>
+<br>
 
 
