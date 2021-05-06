@@ -22,8 +22,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalichan&" alt="anjalichan" /></p>
 <details>
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="Anjalichan's Github Stats" src="https://github-readme-stats.Anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&hide_border=true" />
+<summary>:Zap: Github Stats</summary>
+<img align="left" alt="Anjalichan's Github Stats" src="https://github-readme-stats.anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&hide_border=true" />
   
   </details>
 
