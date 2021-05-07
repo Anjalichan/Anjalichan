@@ -22,15 +22,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Anjalichan's GitHub Stats" src="https://github-readme-anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anjalichan's GitHub Stats" src="https://github-readme-anjalichan.vercel.app/api?username=Anjalichan&show_icons=true&include_all_commits=true&theme=radical" />
  </details>
+
  <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anjalichan's GitHub Top Languages" src="https://github-readme-anjalichan.vercel.app/api/top-langs/?username=Anjalichan" />
+<img align="left" alt="Anjalichan's GitHub Top Languages" src="https://github-readme-anjalichan.vercel.app/api/top-langs/?username=Anjalichan&layout=compact&theme=radical" />
 
 </details>
 <br>
